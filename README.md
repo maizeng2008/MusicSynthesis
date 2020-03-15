@@ -1,1 +1,1 @@
-# MusicSythesis
+# MusicSynthesis
